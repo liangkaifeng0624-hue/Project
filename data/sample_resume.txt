@@ -1,0 +1,13 @@
+Candidate A
+
+Education:
+Bachelor of Business Administration, Finance concentration.
+
+Experience:
+Finance Intern at a regional bank. Monitored daily bond prices and recorded interest rate changes in Excel. Prepared spreadsheets tracking annual and quarterly growth rates. Assisted with bidding documents and internal reporting.
+
+Project:
+Built a sales performance dashboard using Excel pivot tables and charts. Worked with a team of four students to analyze product sales and present findings.
+
+Skills:
+Excel, pivot tables, financial analysis, business reporting, teamwork, communication.
