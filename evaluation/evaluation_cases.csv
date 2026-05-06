@@ -1,0 +1,9 @@
+case_id,resume_type,human_label,expected_issue
+1,strong relevant internship,Strong Match,Should identify relevant Excel and finance experience
+2,keyword-heavy but unrelated,Weak Match,Keyword baseline may over-score
+3,strong education limited experience,Moderate Match,Should not reject only because experience is limited
+4,missing skills section,Weak Match,Should identify missing technical skills
+5,good technical skills no teamwork,Moderate Match,Should mention missing communication/teamwork evidence
+6,unrelated major relevant project,Moderate Match,Should recognize project evidence
+7,excellent fit,Strong Match,Should produce high score and shortlist
+8,generic resume,Weak Match,Should avoid overconfident recommendation
